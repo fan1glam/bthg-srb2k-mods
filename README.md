@@ -2,7 +2,7 @@
 
 ## How to install
 
-mMke sure you have the [game downloaded[(https://mb.srb2.org/addons/srb2kart.2435/) and have the directory open.
+Make sure you have the [game downloaded[(https://mb.srb2.org/addons/srb2kart.2435/) and have the directory open.
 ![image](https://user-images.githubusercontent.com/63884718/181393954-328e25e3-342c-4b61-a91d-b5f87dee7b43.png)
 
 Create a directory in here named exactly "MODS" if there isn't one there already.
