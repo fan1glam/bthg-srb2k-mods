@@ -9,9 +9,9 @@ Create a directory in here named exactly "MODS" if there isn't one there already
 ![image](https://user-images.githubusercontent.com/63884718/181394261-a4f61e5d-4dc4-4ead-8fda-99c714a00553.png)
 
 Then click the green "Code" button and then click "Download Zip".
-![image](https://user-images.githubusercontent.com/63884718/181394306-9907419b-253a-4aa7-b1a8-a681f4ce6803.png)
+![image](https://user-images.githubusercontent.com/63884718/185724709-0b1138aa-2d65-4f2e-81ab-7ff8c6ec8c92.png)
 
 Use any program to extract the zip into the "MODS" directory. It should look like this.
-![image](https://user-images.githubusercontent.com/63884718/181394459-de4a20ce-1daf-495b-8f1c-68b43a2b6e2c.png)
+![image](https://user-images.githubusercontent.com/63884718/185724704-02fb10f3-8c6d-46c1-a381-ab9643134b00.png)
 
 that's all woohoo
